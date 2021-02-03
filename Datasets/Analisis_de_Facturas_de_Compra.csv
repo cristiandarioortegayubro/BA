@@ -1,0 +1,81 @@
+DOCUMENTO;ORGANIZACION;FECHA;TIPOFACTURA;PRODUCTO;CENTRODECOSTO;CANTIDAD;PRECIO;IMPORTEMONPRINCIPAL;IMPORTEMONTRANSACCION;MONEDA;FECHAEMISION
+A-0005-65656651;Altos del Sur S.H.;17-4-20;Factura;Cable RGB para video;Depósito;100,0000;100,0000;10000,0000;10000,0000;Pesos Argentinos;17-4-20
+A-0032-13132156;Altos del Sur S.H.;15-4-20;Factura;Cable RGB para video;Depósito;50,0000;100,0000;5000,0000;5000,0000;Pesos Argentinos;15-4-20
+A-0821-00051325;TelMax;21-3-20;Factura;Telefonia Celular;Administración;1,0000;23200,0000;23200,0000;23200,0000;Pesos Argentinos;21-3-20
+A-0821-00051325;TelMax;21-3-20;Factura;Telefonia Celular;Depósito;1,0000;10035,0000;10035,0000;10035,0000;Pesos Argentinos;21-3-20
+A-0821-00051325;TelMax;21-3-20;Factura;Telefonia Celular;Logística;1,0000;9850,0000;9850,0000;9850,0000;Pesos Argentinos;21-3-20
+A-0010-00051668;Transportes Jorgito S.A.;12-3-20;Factura;Fletes Contratados 21%;Logística;1,0000;72000,0000;72000,0000;72000,0000;Pesos Argentinos;12-3-20
+A-0005-00005138;Fuxer S.R.L;10-3-20;Factura;Insumos de Oficina 21%;Administración;20,0000;13588,0000;271760,0000;271760,0000;Pesos Argentinos;10-3-20
+A-0015-00051688;Ledesma S.A.I.C;27-2-20;Factura;Servicios de Correo Internacional;Administración;1,0000;89350,0000;89350,0000;89350,0000;Pesos Argentinos;27-2-20
+A-0001-00059690;Jonamex S.A.;26-2-20;Factura;Modem Router;Depósito;75,0000;1300,0000;97500,0000;97500,0000;Pesos Argentinos;26-2-20
+A-0010-00055869;Hipermax S.A.;22-2-20;Factura;Productos Terminados;Depósito;15,0000;6900,0000;103500,0000;103500,0000;Pesos Argentinos;22-2-20
+A-0001-00015003;Rannochia S.R.L;15-2-20;Factura;Impresora Multifuncion ;Depósito;10,0000;5035,7500;50357,5000;50357,5000;Pesos Argentinos;15-2-20
+A-0030-00000589;Jose Torrente;8-2-20;Factura;Marketing y Publicidad;Administración;1,0000;73200,0000;73200,0000;73200,0000;Pesos Argentinos;8-2-20
+A-0011-00046882;Transportes Jorgito S.A.;2-2-20;Factura;Fletes Contratados 21%;Logística;1,0000;55325,0000;55325,0000;55325,0000;Pesos Argentinos;2-2-20
+A-0011-00046882;Transportes Jorgito S.A.;2-2-20;Factura;Fletes Contratados 21%;Depósito;1,0000;33250,0000;33250,0000;33250,0000;Pesos Argentinos;2-2-20
+A-0013-00589630;Rannochia S.R.L;15-1-20;Factura;PC;Administración;12,0000;29550,0000;354600,0000;354600,0000;Pesos Argentinos;15-1-20
+A-0023-00000556;Crater S.R.L;7-1-20;Factura;Cable RGB para video;Depósito;40,0000;1059,3000;42372,0000;42372,0000;Pesos Argentinos;7-1-20
+A-1003-00015188;TelMax;3-1-20;Factura;Telefonia Celular;Administración;1,0000;32550,0000;32550,0000;32550,0000;Pesos Argentinos;3-1-20
+A-1003-00015188;TelMax;3-1-20;Factura;Telefonia Celular;Depósito;1,0000;28703,8800;28703,8800;28703,8800;Pesos Argentinos;3-1-20
+A-1003-00015188;TelMax;3-1-20;Factura;Telefonia Celular;Logística;1,0000;10031,8000;10031,8000;10031,8000;Pesos Argentinos;3-1-20
+A-0002-00213500;Transportes Jorgito S.A.;25-12-19;Factura;Fletes Contratados 21%;Logística;1,0000;70320,0000;70320,0000;70320,0000;Pesos Argentinos;25-12-19
+A-0002-00213500;Transportes Jorgito S.A.;25-12-19;Factura;Gastos Varios 21%;Administración;1,0000;13100,0000;13100,0000;13100,0000;Pesos Argentinos;25-12-19
+A-0021-00015318;Vixen S.A.;20-12-19;Factura;Honorarios abogados;Finanzas;1,0000;52535,0000;52535,0000;52535,0000;Pesos Argentinos;20-12-19
+A-1001-00021500;Gonzalez y Asociados SA;12-12-19;Factura;Productos Terminados;Depósito;20,0000;11099,0000;221980,0000;221980,0000;Pesos Argentinos;12-12-19
+A-2086-01503153;Teléfonos S.A.;10-12-19;Factura;Telefonia Celular;Depósito;1,0000;30558,0000;30558,0000;30558,0000;Pesos Argentinos;10-12-19
+A-2086-01503153;Teléfonos S.A.;10-12-19;Factura;Telefonia Celular;Administración;1,0000;27668,0000;27668,0000;27668,0000;Pesos Argentinos;10-12-19
+A-2086-01503153;Teléfonos S.A.;10-12-19;Factura;Telefonia Celular;Logística;1,0000;13588,0000;13588,0000;13588,0000;Pesos Argentinos;10-12-19
+A-0003-00000158;Dunas S.A.;27-11-19;Factura;Honorarios Profesionales 21%;Finanzas;1,0000;104300,0000;104300,0000;104300,0000;Pesos Argentinos;27-11-19
+A-0007-00015202;Transportes Jorgito S.A.;22-11-19;Factura;Fletes Contratados 21%;Depósito;1,0000;110550,0000;110550,0000;110550,0000;Pesos Argentinos;22-11-19
+A-0002-00001403;Crater S.R.L;11-11-19;Factura;Marketing y Publicidad;Administración;1,0000;78900,0000;78900,0000;78900,0000;Pesos Argentinos;11-11-19
+A-0002-00001403;Crater S.R.L;11-11-19;Factura;Servicios de Correo Internacional;Ventas;1,0000;37222,0000;37222,0000;37222,0000;Pesos Argentinos;11-11-19
+A-0005-05005513;Estrada S.A.;2-11-19;Factura;Materia Prima Importada;Ventas;15,0000;3750,0000;56250,0000;56250,0000;Pesos Argentinos;2-11-19
+A-0005-05005513;Estrada S.A.;2-11-19;Factura;Diarios y Revistas;Depósito;100,0000;87,0000;8700,0000;8700,0000;Pesos Argentinos;2-11-19
+A-0022-00069948;Estrada S.A.;27-10-19;Factura;Insumos de Oficina 21%;Administración;1,0000;35852,0000;35852,0000;35852,0000;Pesos Argentinos;27-10-19
+A-0022-00069948;Estrada S.A.;27-10-19;Factura;Insumos de Oficina No Gravados;Administración;1,0000;7200,0000;7200,0000;7200,0000;Pesos Argentinos;27-10-19
+A-0002-00005468;Transportes Jorgito S.A.;11-10-19;Factura;Fletes Contratados 21%;Logística;1,0000;72100,0000;72100,0000;72100,0000;Pesos Argentinos;11-10-19
+A-0005-00001255;Palacios y Asociados;9-10-19;Factura;Impresora Multifuncion ;Depósito;20,0000;4500,0000;90000,0000;90000,0000;Pesos Argentinos;9-10-19
+A-0015-00015884;Vixen S.A.;3-10-19;Factura;Televisor Led Samsung 32  Hd Con Soporte Y Control;Depósito;4,0000;39580,0000;158320,0000;158320,0000;Pesos Argentinos;3-10-19
+A-0056-00505020;Jonamex S.A.;30-9-19;Factura;Impresora Multifuncion ;Depósito;3,0000;3700,0000;11100,0000;11100,0000;Pesos Argentinos;30-9-19
+A-0002-00558033;Worken SRL;24-9-19;Factura;Consultoria;;1,0000;47000,0000;47000,0000;47000,0000;Pesos Argentinos;24-9-19
+A-1006-00065423;Estrada S.A.;17-9-19;Factura;Televisor Led Samsung 32  Hd Con Soporte Y Control;;10,0000;10200,7500;102007,5000;102007,5000;Pesos Argentinos;17-9-19
+A-0055-00000151;Rannochia S.R.L;2-9-19;Factura;Productos Terminados;;45,0000;2189,0000;98505,0000;98505,0000;Pesos Argentinos;2-9-19
+A-0020-00000448;Rannochia S.R.L;30-8-19;Factura;Proveedor de Servicios Freelance;;1,0000;10500,0000;10500,0000;10500,0000;Pesos Argentinos;30-8-19
+A-0009-00001655;Worken SRL;26-8-19;Factura;Marketing y Publicidad;;1,0000;30759,0000;30759,0000;30759,0000;Pesos Argentinos;26-8-19
+A-1055-00081005;Mirvan S.A.;25-8-19;Factura;Mouse;;15,0000;725,0000;10875,0000;10875,0000;Pesos Argentinos;25-8-19
+A-0003-00005339;Kasiu S.A.;12-8-19;Factura;Productos Terminados;;6,0000;3958,0000;23748,0000;23748,0000;Pesos Argentinos;12-8-19
+A-0038-00005187;Jonamex S.A.;5-8-19;Factura;Televisor Led Samsung 32  Hd Con Soporte Y Control;;10,0000;16980,0000;169800,0000;169800,0000;Pesos Argentinos;5-8-19
+A-0300-00065059;Vixen S.A.;26-7-19;Factura;Televisor Led Samsung 32  Hd Con Soporte Y Control;;10,0000;8900,6000;89006,0000;89006,0000;Pesos Argentinos;26-7-19
+A-0002-00001255;Rannochia S.R.L;18-7-19;Factura;Mercadería;;22,0000;3750,6900;82515,1800;82515,1800;Pesos Argentinos;18-7-19
+A-1009-00000012;Ledesma S.A.I.C;12-7-19;Factura;Monitor LED;;37,0000;2990,0000;110630,0000;110630,0000;Pesos Argentinos;12-7-19
+A-0103-00001355;Worken SRL;3-7-19;Factura;Productos Terminados;;20,0000;2300,0000;46000,0000;46000,0000;Pesos Argentinos;3-7-19
+A-0003-00015062;Ledesma S.A.I.C;22-6-19;Factura;Monitor LED;;13,0000;9600,0000;124800,0000;124800,0000;Pesos Argentinos;22-6-19
+A-0123-11055992;Rannochia S.R.L;15-6-19;Factura;Servicios de Internet;;1,0000;27000,0000;27000,0000;27000,0000;Pesos Argentinos;15-6-19
+A-0123-11055992;Rannochia S.R.L;15-6-19;Factura;Proveedor de Servicios Freelance;;10,0000;1705,0000;17050,0000;17050,0000;Pesos Argentinos;15-6-19
+A-0003-00155823;Dunas S.A.;11-6-19;Factura;Control Remoto;;10,0000;610,0000;6100,0000;6100,0000;Pesos Argentinos;11-6-19
+A-0003-00155823;Dunas S.A.;11-6-19;Factura;Insumos Administrativos;;6,0000;700,0000;4200,0000;4200,0000;Pesos Argentinos;11-6-19
+A-0010-00002055;Vixen S.A.;2-6-19;Factura;Productos Terminados;;12,0000;5785,0000;69420,0000;69420,0000;Pesos Argentinos;2-6-19
+A-1032-00469907;Vixen S.A.;17-5-19;Factura;Materia Prima Importada;;25,0000;2399,0000;59975,0000;59975,0000;Pesos Argentinos;17-5-19
+A-0005-00016520;Rannochia S.R.L;13-5-19;Factura;Televisor Led Samsung 32  Hd Con Soporte Y Control;;15,0000;12500,0000;187500,0000;187500,0000;Pesos Argentinos;13-5-19
+A-0009-00055192;Ledesma S.A.I.C;9-5-19;Factura;Servicios de Internet;;1,0000;12955,0000;12955,0000;12955,0000;Pesos Argentinos;9-5-19
+A-0005-00003152;Dunas S.A.;8-5-19;Factura;Control Remoto;;25,0000;620,0000;15500,0000;15500,0000;Pesos Argentinos;8-5-19
+A-0880-00066101;Palacios y Asociados;27-4-19;Factura;Modem Router;;20,0000;1005,0000;20100,0000;20100,0000;Pesos Argentinos;27-4-19
+A-0003-00001150;Mirvan S.A.;22-4-19;Factura;Telefonia Celular;;1,0000;5500,0000;5500,0000;5500,0000;Pesos Argentinos;22-4-19
+A-1003-00016668;Rannochia S.R.L;17-4-19;Factura;Parlantes para PC;;15,0000;1235,0000;18525,0000;18525,0000;Pesos Argentinos;17-4-19
+A-0050-00055809;Jonamex S.A.;11-4-19;Factura;Teclado;;120,0000;595,0000;71400,0000;71400,0000;Pesos Argentinos;11-4-19
+C-0001-00004558;Lidia Norma Marano;5-4-19;Factura;Honorarios abogados;;1,0000;27000,0000;27000,0000;27000,0000;Pesos Argentinos;5-4-19
+A-0012-00015220;Vixen S.A.;2-4-19;Factura;Monitores;;15,0000;935,0000;14025,0000;14025,0000;Pesos Argentinos;2-4-19
+C-0003-00000011;Ignacio Gimenez;19-3-19;Factura;Honorarios;;1,0000;6980,0000;6980,0000;6980,0000;Pesos Argentinos;19-3-19
+A-0001-00000155;Crater S.R.L;8-3-19;Factura;Materia Prima Importada;;20,0000;7890,0000;157800,0000;157800,0000;Pesos Argentinos;8-3-19
+A-0020-00064852;Rannochia S.R.L;2-3-19;Factura;Mercadería;;10,0000;5633,0000;56330,0000;56330,0000;Pesos Argentinos;2-3-19
+A-0103-00009570;Rannochia S.R.L;28-2-19;Factura;Honorarios abogados;;1,0000;27600,0000;27600,0000;27600,0000;Pesos Argentinos;28-2-19
+A-0010-00031588;Kasiu S.A.;21-2-19;Factura;Productos Terminados;;10,0000;3100,0000;31000,0000;31000,0000;Pesos Argentinos;21-2-19
+A-0010-00031588;Kasiu S.A.;21-2-19;Factura;Marketing y Publicidad;;1,0000;7500,0000;7500,0000;7500,0000;Pesos Argentinos;21-2-19
+A-0003-00000011;Estrada S.A.;10-2-19;Factura;Monitor OLED;;20,0000;1350,0000;27000,0000;27000,0000;Pesos Argentinos;10-2-19
+A-0011-00015586;Gonzalez y Asociados SA;1-2-19;Factura;Monitor LED;;18,0000;1205,0000;21690,0000;21690,0000;Pesos Argentinos;1-2-19
+A-0106-12250014;Mirvan S.A.;31-1-19;Factura;Muebles de Oficina;;8,0000;1680,0000;13440,0000;13440,0000;Pesos Argentinos;31-1-19
+A-0103-00001157;Crater S.R.L;22-1-19;Factura;Honorarios;;1,0000;5600,0000;5600,0000;5600,0000;Pesos Argentinos;22-1-19
+A-0009-00015229;Bahia S.A.;13-1-19;Factura;Monitor LED;;10,0000;4520,0000;45200,0000;45200,0000;Pesos Argentinos;13-1-19
+A-0021-00528163;Rannochia S.R.L;8-1-19;Factura;Mercaderia de Reventa;;20,0000;1500,0000;30000,0000;30000,0000;Pesos Argentinos;8-1-19
+A-0001-00001557;Worken SRL;3-1-19;Factura;Servicios de Correo Internacional;;1,0000;35700,0000;35700,0000;35700,0000;Pesos Argentinos;3-1-19
+A-0001-00001557;Worken SRL;3-1-19;Factura;Servicios de Internet;;1,0000;9679,0000;9679,0000;9679,0000;Pesos Argentinos;3-1-19
