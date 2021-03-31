@@ -92,16 +92,16 @@ B-0001-00000086,Valeria Welponer,03-10-2018,Factura,,Impresora Multifuncion ,,,1
 B-0001-00000086,Valeria Welponer,03-10-2018,Factura,,Insumos oficina,,,1.0000,123.9669,123.9700,123.9700,Pesos Argentinos,,0E-28
 A-0001-00000002,Berker S.R.L,03-10-2018,Nota de Crédito,,Publicidad y Marketing,,,-10.0000,7400.0000,-74000.0000,-74000.0000,Pesos Argentinos,,0E-28
 A-0001-00000169,Nicolasen y Asociados S.A.,01-10-2018,Factura,,Consultoria Digital,,,1.0000,6300.0000,6300.0000,6300.0000,Pesos Argentinos,,0E-28
-A-0001-00000001,Amazon Group,01-10-2018,Nota de Crédito,,Consultoría,,,-1.0000,43000.0000,-43000.0000,-43000.0000,Pesos Argentinos,,0E-28
-A-0001-00000168,Amazon Group,25-09-2018,Factura,,Consultoría,,,1.0000,43000.0000,43000.0000,43000.0000,Pesos Argentinos,,0E-28
+A-0001-00000001,Amazon Group,01-10-2018,Nota de Credito,,Consultoria,,,-1.0000,43000.0000,-43000.0000,-43000.0000,Pesos Argentinos,,0E-28
+A-0001-00000168,Amazon Group,25-09-2018,Factura,,Consultoria,,,1.0000,43000.0000,43000.0000,43000.0000,Pesos Argentinos,,0E-28
 A-0001-00000167,Klarkson,21-09-2018,Factura,,Servicios Profesionales,,,1.0000,89500.0000,89500.0000,89500.0000,Pesos Argentinos,,0E-28
 A-0001-00000166,Berker S.R.L,10-09-2018,Factura,,Publicidad y Marketing,,,10.0000,7400.0000,74000.0000,74000.0000,Pesos Argentinos,,0E-28
-A-0001-00000165,Campomas S.A.,09-09-2018,Factura,,Consultoría,Extraordinarias,,1.0000,20000.0000,20000.0000,20000.0000,Pesos Argentinos,,0E-28
+A-0001-00000165,Campomas S.A.,09-09-2018,Factura,,Consultoria,Extraordinarias,,1.0000,20000.0000,20000.0000,20000.0000,Pesos Argentinos,,0E-28
 A-0001-00000164,Hernandez S.A.,06-09-2018,Factura,,Materia Prima Importada,,,1.0000,20000.0000,20000.0000,20000.0000,Pesos Argentinos,,0E-28
 B-0001-00000085,Rodrigo Vidal,06-09-2018,Factura,,Impresora Multifuncion ,,,1.0000,4300.0000,4300.0000,4300.0000,Pesos Argentinos,,0E-28
 B-0001-00000085,Rodrigo Vidal,06-09-2018,Factura,,Parlantes para PC,,,1.0000,1000.0000,1000.0000,1000.0000,Pesos Argentinos,,0E-28
 B-0001-00000085,Rodrigo Vidal,06-09-2018,Factura,,Modem Router,,,1.0000,578.5124,578.5100,578.5100,Pesos Argentinos,,0E-28
-A-0001-00000001,Jameson SRL,05-09-2018,Nota de Débito,,Intereses por Mora,,,1.0000,700.0000,700.0000,700.0000,Pesos Argentinos,,0E-28
+A-0001-00000001,Jameson SRL,05-09-2018,Nota de Debito,,Intereses por Mora,,,1.0000,700.0000,700.0000,700.0000,Pesos Argentinos,,0E-28
 A-0001-00000163,Galardon S.A.,01-09-2018,Factura,,Consultoria Web,,,1.0000,5890.0000,5890.0000,5890.0000,Pesos Argentinos,,0E-28
 A-0001-00000162,Jameson SRL,31-08-2018,Factura,,Intereses por Mora,,,1.0000,28500.0000,28500.0000,28500.0000,Pesos Argentinos,,0E-28
 A-0001-00000161,Nicolasen y Asociados S.A.,30-08-2018,Factura,,Publicidad y Marketing,,,1.0000,24600.0000,24600.0000,24600.0000,Pesos Argentinos,,0E-28
@@ -125,9 +125,7 @@ B-0001-00000078,Javier Moroni,30-06-2018,Factura,,PC,,,1.0000,26446.2810,26446.2
 A-0001-00000151,Nicolasen y Asociados S.A.,30-06-2018,Factura,,Impresora Multifuncion ,,,6.0000,4200.0000,25200.0000,25200.0000,Pesos Argentinos,,0E-28
 A-0001-00000147,Manganello S.R.L,30-06-2018,Factura,,Consultoria Digital,,,1.0000,25000.0000,25000.0000,25000.0000,Pesos Argentinos,,0E-28
 A-0001-00000150,Manganello S.R.L,30-06-2018,Factura,,Honorarios,,,1.0000,24000.0000,24000.0000,24000.0000,Pesos Argentinos,,0E-28
-A-0001-00000148,Hernandez S.A.,30-06-2018,Factura,,Consultoría,,,1.0000,18000.0000,18000.0000,18000.0000,Pesos Argentinos,,0E-28
 B-0001-00000077,Javier Moroni,28-06-2018,Factura,,Parlantes para PC,,,6.0000,1000.0000,6000.0000,6000.0000,Pesos Argentinos,,0E-28
-A-0001-00000146,Donadelli S.R.L,26-06-2018,Factura,,Consultoría,,,1.0000,15000.0000,15000.0000,15000.0000,Pesos Argentinos,,0E-28
 B-0001-00000076,Etigand S.A.,25-06-2018,Factura,,Diseño Web,,,1.0000,12396.6942,12396.6900,12396.6900,Pesos Argentinos,,0E-28
 A-0001-00000145,Galardon S.A.,19-06-2018,Factura,,PC,,,5.0000,12000.0000,60000.0000,60000.0000,Pesos Argentinos,,0E-28
 A-0001-00000144,Donadelli S.R.L,08-06-2018,Factura,,Consultoria Web,,,1.0000,15000.0000,15000.0000,15000.0000,Pesos Argentinos,,0E-28
@@ -138,14 +136,12 @@ A-0001-00000142,Nicolasen y Asociados S.A.,12-05-2018,Factura,,Publicidad y Mark
 A-0001-00000142,Nicolasen y Asociados S.A.,12-05-2018,Factura,,Consultoria Digital,,,1.0000,15000.0000,15000.0000,15000.0000,Pesos Argentinos,,0E-28
 A-0001-00000141,Ignition S.A.C.I,08-05-2018,Factura,,Diseño Web,,,1.0000,18000.0000,18000.0000,18000.0000,Pesos Argentinos,,0E-28
 B-0001-00000074,Ferrari Hnos S.A.,04-05-2018,Factura,,Publicidad y Marketing,,,1.0000,20661.1570,20661.1600,20661.1600,Pesos Argentinos,,0E-28
-A-0001-00000140,Berker S.R.L,01-05-2018,Factura,,Consultoría,,,1.0000,15000.0000,15000.0000,15000.0000,Pesos Argentinos,,0E-28
 A-0001-00000139,Galardon S.A.,30-04-2018,Factura,,Impresora Multifuncion ,,,9.0000,1800.0000,16200.0000,16200.0000,Pesos Argentinos,,0E-28
 B-0001-00000073,Javier Moroni,30-04-2018,Factura,,Publicidad y Marketing,,,1.0000,11570.2479,11570.2500,11570.2500,Pesos Argentinos,,0E-28
 B-0001-00000072,Etigand S.A.,29-04-2018,Factura,Servicio de Diseño Web y Publicidad,Consultoria Web,,,1.0000,100000.0000,100000.0000,100000.0000,Pesos Argentinos,,0E-28
 A-0001-00000138,Galardon S.A.,17-04-2018,Factura,,Diseño Web,,,1.0000,19000.0000,19000.0000,19000.0000,Pesos Argentinos,,0E-28
 A-0001-00000137,Horizonte S.A.,10-04-2018,Factura,,Consultoria Web,,,1.0000,12500.0000,12500.0000,12500.0000,Pesos Argentinos,,0E-28
 A-0001-00000136,Hernandez S.A.,02-04-2018,Factura,,Honorarios,,,1.0000,58000.0000,58000.0000,58000.0000,Pesos Argentinos,,0E-28
-A-0001-00000135,Nicolasen y Asociados S.A.,31-03-2018,Factura,Mantenimiento Página Web,Consultoria Digital,,,1.0000,15000.0000,15000.0000,15000.0000,Pesos Argentinos,Sofia Duran,0E-28
 B-0001-00000071,Javier Moroni,14-03-2018,Factura,,Publicidad y Marketing,,,1.0000,53719.0083,53719.0100,53719.0100,Pesos Argentinos,,0E-28
 A-0001-00000134,Galardon S.A.,08-03-2018,Factura,,Honorarios,,,1.0000,65000.0000,65000.0000,65000.0000,Pesos Argentinos,,0E-28
 A-0001-00000133,Donadelli S.R.L,01-03-2018,Factura,Servicios de Publicidad Digital mediante Facebook Ads y Google AdWords,Publicidad y Marketing,,,1.0000,65000.0000,65000.0000,65000.0000,Pesos Argentinos,,0E-28
